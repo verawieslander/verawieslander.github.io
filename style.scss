@@ -213,7 +213,7 @@ img {
 }
 
 nav {
-  text-align: center;
+  float: none;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Playfair Display', serif;
   font-size: 30px;
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #000000;
     }
   }
 }
