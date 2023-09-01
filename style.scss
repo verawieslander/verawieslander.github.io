@@ -181,7 +181,7 @@ img {
 }
 
 .site-info {
-  align: center;
+  text-align: center;
 
   @include mobile {
     float: none;
@@ -191,7 +191,7 @@ img {
 }
 
 .site-name {
-  align: center;
+  text-align: center;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
