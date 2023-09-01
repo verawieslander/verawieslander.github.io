@@ -213,10 +213,10 @@ img {
 }
 
 nav {
-  float: none;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Playfair Display', serif;
   font-size: 30px;
+  text-align: center;
 
   @include mobile {
     float: none;
