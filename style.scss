@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 98%;
   padding: 0 10px;
   width: 100%;
 }
@@ -181,8 +181,7 @@ img {
 }
 
 .site-info {
-  margin-right: 50%;
-  margin-left: 50%;
+  align: center;
 
   @include mobile {
     float: none;
@@ -192,6 +191,7 @@ img {
 }
 
 .site-name {
+  align: center;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
