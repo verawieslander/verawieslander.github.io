@@ -215,7 +215,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Oswald', sans-serif;; 
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
   font-size: 25px;
 
   @include mobile {
