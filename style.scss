@@ -229,7 +229,8 @@ nav {
     margin-left: 20px;
     color: #000000;
     text-align: right;
-    font-weight: 300;
+    font-weight: 500; 
+    font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
 
     @include mobile {
