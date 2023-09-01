@@ -215,7 +215,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-size: 100px;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Playfair Display', serif;
 
   @include mobile {
     float: none;
