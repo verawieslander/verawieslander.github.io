@@ -219,7 +219,7 @@ img {
 }
 
 nav {
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 5%; // @TODO: Vertically middle align
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 25px;
   text-align: center;
@@ -228,10 +228,10 @@ nav {
 
   @include mobile {
     float: none;
-    font-family: 'PT Sans Narrow', sans-serif;
-    margin-top: 9px;
-    display: block;
-    font-size: 20px;
+  //  font-family: 'PT Sans Narrow', sans-serif;
+    margin-top: 5%;
+  //  display: block;
+    font-size: 25px;
      }
 
   a {
