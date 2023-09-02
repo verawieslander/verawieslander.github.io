@@ -167,7 +167,7 @@ img {
   }
 }
 
-.site-avatar {
+/*.site-avatar {
   float: left;
   width: 70px;
   height: 70px;
@@ -182,7 +182,7 @@ img {
   img {
     border-radius: 5px;
   }
-}
+}*/
 
 .site-info {
   text-align: center;
@@ -205,7 +205,7 @@ img {
   letter-spacing: 2px;
 
   @include mobile {
-  font-size: 68px; 
+  font-size: 68px;
    }
  }
 
