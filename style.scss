@@ -223,6 +223,8 @@ nav {
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 25px;
   text-align: center;
+	
+  @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow');
 
   @include mobile {
     float: none;
