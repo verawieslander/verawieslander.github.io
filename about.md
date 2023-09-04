@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### Hej! 
+
 ### More Information
 
 
